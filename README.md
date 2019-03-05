@@ -9,7 +9,7 @@ Xu et al. - 2019 - IEEE-TGRS, Cross-Track Infrared Sounder Spectral Gap Filling 
 
 Xu et al. - 2018 - GSICS, CrIS spectral gap filling - Part I  Methodology.pdf
 
-Particularly, it is now also successfully applied to the FY3D HIRAS instrument which has similar spectral gaps as the CrIS by Na Xu & Hanlie Xu from CMA.
+It is now also successfully applied to the FY3D HIRAS instrument which has similar spectral gaps as the CrIS.
 
 We are now trying to fill up the IASI short wave channels beyond 2760 cm-1, which allows IASI to fully cover some broadband short wave channels when it was used as a standard reference (such as, the SEVIRI channel 3B, ...). Preliminary results can be found in 
  'Xu et al. - 2019 - GSICS, CrIS spectral gap filling - Part II Sensitive test and validation.pdf'. The IASI SW channel gap filling coefficients will be uploaded ASAP. 
