@@ -26,7 +26,7 @@ Update will be made in the future if it is necessary.
 
 
 Contact:
-If you has any suggestions and questions, please let me know,
+If you has any suggestions and questions, please let us know,
 
 HUI XU/UMD
 Assistant Research Scientist
@@ -35,3 +35,7 @@ huixu@umd.edu
 Likun Wang - NOAA Affiliate
 Research Scientist
 likun.wang@noaa.gov
+
+Yong Chen - NOAA Affiliate
+Research Scientist
+yong.chen@noaa.gov
