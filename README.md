@@ -15,6 +15,16 @@ We are now trying to fill up the IASI short wave channels beyond 2760 cm-1, whic
  'Xu et al. - 2019 - GSICS, CrIS spectral gap filling - Part II Sensitive test and validation.pdf'. The IASI SW channel gap filling coefficients will be uploaded ASAP. 
 
 Usage:
-The CrIS spectral gap filling coefficients as well as readme and testing code (in IDL) is in CrIS directory.
 
-Update will be made in the future if it is necessary. 
+The SNPP/JPSS1 CrIS spectral gap filling coefficients as well as readme and testing code (in IDL) is in CrIS directory.
+
+The FY3D HIRAS spectral gap filling coefficients as well as readme and testing code (in IDL) is in HIRS directory.
+
+The METOP IASI spectral gap filling coefficients as well as readme and testing code (in IDL) is in HIRS directory.
+
+
+Update will be made in the future if it is necessary. If you has any suggestions and questions, please let me know,
+
+HUI XU/UMD
+Assistant Research Scientist
+huixu@umd.edu
