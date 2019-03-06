@@ -10,8 +10,7 @@ Xu et al. - 2019 - IEEE-TGRS, Cross-Track Infrared Sounder Spectral Gap Filling 
 Xu et al. - 2018 - GSICS, CrIS spectral gap filling - Part I  Methodology.pdf
 
 
-We are now trying to fill up the IASI short wave channels beyond 2760 cm-1, which allows IASI to fully cover some broadband short wave channels when it was used as a standard reference (such as, the SEVIRI channel 3B, ...). Preliminary results can be found in 
- 'Xu et al. - 2019 - GSICS, CrIS spectral gap filling - Part II Sensitive test and validation.pdf'. The IASI SW channel gap filling coefficients will be UPDATED in the future. 
+We are now trying to fill up the IASI short wave channels beyond 2760 cm-1, which allows IASI to fully cover some broadband short wave channels when it was used as a standard reference (such as, the SEVIRI channel 3B, ...). Preliminary results have been achieved. The IASI SW channel gap filling coefficients will be UPDATED in the future. 
 
 Spectral gap filling coefficients and testing code:
 
