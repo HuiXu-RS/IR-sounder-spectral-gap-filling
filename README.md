@@ -22,7 +22,7 @@ Update will be made in the future if it is necessary.
 Contact:
 If you has any suggestions and questions, please let us know,
 
-HUI XU/UMD
+HUI XU - ESSIC/UMD
 Assistant Research Scientist
 huixu@umd.edu
 
