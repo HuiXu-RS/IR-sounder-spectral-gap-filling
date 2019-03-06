@@ -12,7 +12,7 @@ Xu et al. - 2018 - GSICS, CrIS spectral gap filling - Part I  Methodology.pdf
 It is now also successfully applied to the FY3D HIRAS instrument which has similar spectral gaps as the CrIS.
 
 We are now trying to fill up the IASI short wave channels beyond 2760 cm-1, which allows IASI to fully cover some broadband short wave channels when it was used as a standard reference (such as, the SEVIRI channel 3B, ...). Preliminary results can be found in 
- 'Xu et al. - 2019 - GSICS, CrIS spectral gap filling - Part II Sensitive test and validation.pdf'. The IASI SW channel gap filling coefficients will be uploaded ASAP. 
+ 'Xu et al. - 2019 - GSICS, CrIS spectral gap filling - Part II Sensitive test and validation.pdf'. The IASI SW channel gap filling coefficients will be UPDATED in the future. 
 
 Spectral gap filling coefficients and testing code:
 
@@ -20,7 +20,7 @@ Spectral gap filling coefficients and testing code:
 
    b) The FY3D HIRAS spectral gap filling coefficients as well as readme and testing code (in IDL) is in HIRS directory.
 
-   c) The METOP IASI spectral gap filling coefficients as well as readme and testing code (in IDL) is in HIRS directory.
+   c) The METOP IASI spectral gap filling coefficients as well as readme and testing code (in IDL) is in IASI directory.
 
 Update will be made in the future if it is necessary. 
 
