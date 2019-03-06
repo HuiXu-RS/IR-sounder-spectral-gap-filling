@@ -16,10 +16,6 @@ Spectral gap filling coefficients and testing code:
 
    a) The SNPP/JPSS1 CrIS spectral gap filling coefficients as well as readme and testing code (in IDL) is in CrIS directory.
 
-   b) The FY3D HIRAS spectral gap filling coefficients as well as readme and testing code (in IDL) is in HIRS directory.
-
-   c) The METOP IASI spectral gap filling coefficients as well as readme and testing code (in IDL) is in IASI directory.
-
 Update will be made in the future if it is necessary. 
 
 
